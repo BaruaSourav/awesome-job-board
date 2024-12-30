@@ -1,7 +1,7 @@
 
 # Vite + React + Tailwind Playground
 
-This repository is a starter template for building a React application using [Vite](https://vitejs.dev/) and [Tailwind CSS](https://tailwindcss.com/) for styling.
+This repository is a simple job information sharing React application using [Vite](https://vitejs.dev/) and [Tailwind CSS](https://tailwindcss.com/) for styling.
 
 ## Getting Started
 
